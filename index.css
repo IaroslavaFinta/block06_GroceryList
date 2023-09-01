@@ -1,0 +1,46 @@
+.title {
+    color: rgb(104, 104, 238);
+    text-align: center;
+    }
+.header {
+    color: black;
+    background-color: antiquewhite;
+    width: 50%;
+    max-width: 60%;
+    margin-left: 10px;
+    padding: 10px;
+    border: 2px solid black;
+}
+.section {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    }
+.box {
+    background-color:rgb(202, 198, 198);
+    width: 200px;
+    height: fit-content;
+    margin-left: 10px;
+    padding: 10px;
+    border: 2px;
+}
+.box h3 {
+    margin: 0;
+}
+.list {
+    background-color:rgb(202, 198, 198);
+    font-size: medium;
+    padding-left: 20px;
+    padding-top: 0px;
+    }
+.item {
+    background-color:rgb(202, 198, 198);
+    font-size: smaller;
+    }
+img {
+    width: 200px;
+    height: auto;
+}
+
+
+
